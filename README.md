@@ -2,4 +2,4 @@
 
 ## 使用到的技术有 axios pinia ts element-plus
 
-### 感谢大佬提供的[网易云音乐 NodeJs 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
+## 感谢大佬提供的[网易云音乐 NodeJs 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)

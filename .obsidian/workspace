@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "db91a4685f5a11d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "49d7356e3ac89145",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e5e0b60cdea1305",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4e3f0902061884f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11dfb8873befc039",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "579f2e68ba6f625c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4001bf3eccaf3cdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f20ace71e87d70d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29c82281e667bb05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "49d7356e3ac89145",
+  "lastOpenFiles": [
+    "README.md"
+  ]
+}

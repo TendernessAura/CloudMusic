@@ -1,7 +1,9 @@
 <template>
   <el-container w1280px h768px mxauto>
     <el-header>
-      <h1 @click="goHome" text-center text-red>Music</h1>
+      <h1 @click="goHome" cursor-pointer my-3 text-5xl text-center text-red>
+        Music
+      </h1>
     </el-header>
     <el-main>
       <router-view></router-view>
